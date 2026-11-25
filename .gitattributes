@@ -1,0 +1,2 @@
+preview/** linguist-detectable=false
+*.kt linguist-language=Kotlin linguist-detectable=true linguist-generated=false linguist-vendored=false
